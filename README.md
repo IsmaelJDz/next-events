@@ -14,7 +14,7 @@ yarn dev
 
 ![Captura de la app](./img/events.png)
 
-[ver la aplicación]() 👀
+[ver la aplicación](https://next-events-five.vercel.app/) 👀
 
 ## Welcome! 👋
 
